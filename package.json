@@ -27,7 +27,7 @@
     "ytdl": "~0.3.5",
     "universal-analytics": "~0.3.4",
     "node-uuid": "~1.4.3",
-    "nedb": "~1.1.2"
+    "nedb": "~1.8.0"
   },
   "devDependencies": {
     "grunt": "~0.4.5",
